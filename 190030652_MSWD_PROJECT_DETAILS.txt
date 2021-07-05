@@ -1,0 +1,10 @@
+PROJECT DETAILS:-
+
+Team lead id number:-190030652
+Team lead name :-J Bharath
+Team member id number:-190030919
+Team member name:-K Lohith
+-------------------------------------------
+Project ID:-38
+Project Title:-TodoList 
+Completion Percentage:-100

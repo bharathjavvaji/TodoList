@@ -1,0 +1,9 @@
+POST http://localhost:5000/tasks
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImxvaGl0aCIsImlkIjoiNjBjNDk1ZGQ4YzM0NTgxMjc4MDg1N2EyIiwiaWF0IjoxNjIzNTIwODYwLCJleHAiOjE2MjM1MjQ0NjB9.hnIQeff3qjReLuCDOwfuE23-imVHYlhTsNM-M3oF6TQ
+
+{
+    "title":"bow",
+    "type":"home"
+}
+
